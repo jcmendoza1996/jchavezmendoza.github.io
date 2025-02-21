@@ -1,4 +1,4 @@
-@@ -12,5 +12,5 @@ This repository will be used to submit assignments and labs.
+This repository will be used to submit assignments and labs.
   * My second interest is gaming, I enjoy gaming tremendously because I can enjoy it with my wife and daughter, at the moment we enjoy playing Fortnite.
 
 ## Websites I Recommend
