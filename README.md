@@ -4,5 +4,3 @@ This repository will be used to submit assignments and labs.
 ## Websites I Recommend
   * [DuckDuckGo](www.duckduckgo.com) - I prefer DuckDuckGo over Google because of the search algorithm shows results that google doesn't.
   * [Real Madrid](www.realmadrid.com) - I recommend the Real Madrid website so that you can learn about the **_best_** football club in the world.
-  * [DuckDuckGo](https://www.duckduckgo.com) - I prefer DuckDuckGo over Google because of the search algorithm shows results that google doesn't.
-  * [Real Madrid](https://www.realmadrid.com) - I recommend the Real Madrid website so that you can learn about the **_best_** football club in the world.
